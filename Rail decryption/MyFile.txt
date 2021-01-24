@@ -1,0 +1,16 @@
+Type the corresponding letter for the function.
+Classic Rail encryption(a), second level encryption (b), second level decryption (c)
+
+=a
+
+what will the A key be? (2-9)
+
+=9
+
+If Second level encryption what will the B key be?
+
+=4
+
+What is message (~ meaning the end of message)?
+
+=The quick brown fox jumps over the lazy dog~
