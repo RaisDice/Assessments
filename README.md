@@ -1,2 +1,2 @@
 # Assessments
-University coding assessments done so far
+Coding assessments done for University so far.
